@@ -23,7 +23,7 @@ This is a simple Instagram clone built using ReactJS and Chakra UI. The applicat
 
 ## 🌐 Demo
 
-A live demo of the application can be found [here](#).
+A live demo of the application can be found [here](https://instagram-clone-smoky-five.vercel.app/).
 
 ## ⚙️ Installation
 
